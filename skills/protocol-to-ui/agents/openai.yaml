@@ -1,0 +1,4 @@
+interface:
+  display_name: "技术协议转 UI"
+  short_description: "将系统技术协议转为分组SVG设计与高分辨率素材，支持按钮双状态和客户意见修改"
+  default_prompt: "使用 $protocol-to-ui，把这份技术协议生成 UI。"

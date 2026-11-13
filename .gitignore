@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+.npm-cache/
+projects/
+input/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+.DS_Store
+Thumbs.db

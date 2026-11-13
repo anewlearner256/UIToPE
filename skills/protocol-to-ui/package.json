@@ -1,0 +1,8 @@
+{
+  "name": "protocol-to-ui",
+  "version": "1.0.0",
+  "private": true,
+  "description": "技术协议转分组 SVG、按钮双状态素材与可追踪设计交付",
+  "scripts": { "test": "python -m unittest discover -s tests -v" },
+  "dependencies": { "@resvg/resvg-js": "2.6.2" }
+}
